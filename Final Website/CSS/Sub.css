@@ -1,0 +1,68 @@
+html {
+
+    background: url('../images/SaltLake.jpg') center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: hsla(0, 0%, 0%, 0);
+    object-fit: cover;
+    padding-bottom: 25px;
+
+}
+
+section {
+
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 24pt;
+    background-color: hsla(0, 0%, 0%, 0.8);
+    color: darkgrey;
+    border-radius: 25px
+}
+
+p {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+div {
+
+    background-color: hsla(0, 0%, 0%, 0.6);
+    padding: 50px 50px 50px 50px;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 24;
+    color: grey;
+    border-radius: 25px;
+
+}
+
+a {
+    color: aliceblue;
+}
+
+a:visited {
+    color: crimson;
+}
+
+a:hover {
+    color: cadetblue;
+}
+
+body {
+
+    color: black;
+
+
+
+}
